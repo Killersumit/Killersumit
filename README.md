@@ -1,52 +1,41 @@
-<div align="center">SUMIT
+<div align="center">sumit
 
-vibecoder · frontend guy · ai enjoyer
+"vibecoder" · "frontend enjoyer" · "ai enthusiast"
 
-building things because "what if?" is usually enough.
+<br>i build things that make me curious.
 
-<br>""Peel UI" (https://img.shields.io/badge/Peel_UI-08090a?style=flat-square&logoColor=84ff00)" (https://github.com/killersumit/peel-ui)
-""ani-tui" (https://img.shields.io/badge/ani--tui-08090a?style=flat-square)" (https://github.com/killersumit/ani-tui)
+web · ai · interfaces · experiments
+
+<br>" peel-ui " (https://github.com/killersumit/peel-ui) · " ani-tui " (https://github.com/killersumit/ani-tui)
 
 </div>---
 
-"> currently"
+currently
 
-building → "Peel UI" (https://github.com/killersumit/peel-ui)
-"tactile · opinionated · non-boring React components"
+«making "Peel UI" (https://github.com/killersumit/peel-ui) — tactile, opinionated React components with a focus on interaction and character.»
 
-exploring → "AI · LLMs · Web · UI/UX · new tech"
+learning "AI" · "LLMs" · "web" · "backend"
 
-learning → "backend... unfortunately"
-
----
-
-"> me.exe"
-
-frontend    ████████████████████  100%
-ai          █████████████████░░░   85%
-curiosity   ████████████████████  100%
-backend     ███████░░░░░░░░░░░░░   35%
-
-I like clean interfaces, weird ideas, AI everywhere, and shipping stuff.
-
-I don't know everything.
-
-yet.
+good at frontend · equally good at avoiding backend
 
 ---
 
-"> projects"
+<div align="center">things i like
 
-"Peel UI" (https://github.com/killersumit/peel-ui) — UI components with actual personality.
+"AI"  "web"  "UI/UX"  "open source"  "new shit"
 
-"ani-tui" (https://github.com/killersumit/ani-tui) — a terminal UI for "ani-cli".
+<br>«if it doesn't exist, i'll probably try building it.»
 
----
+<br>"ani-tui" — terminal UI for ani-cli
 
-"> contact"
+</div>---
+
+<div align="center">want to talk?
 
 "killersumit1191@gmail.com" · "killer1191x@gmail.com"
 
-<br><div align="center">"made with curiosity + AI + questionable decisions"
+<br><br>
+
+<sub>powered by curiosity & questionable ideas</sub>
 
 </div>
