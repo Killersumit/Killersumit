@@ -1,144 +1,52 @@
-yo, i'm sumit 👋
+<div align="center">SUMIT
 
-vibecoder · frontend enjoyer · ai enthusiast · professional backend struggler
+vibecoder · frontend guy · ai enjoyer
 
-I like building things that look good, feel good, and occasionally work on the first try.
+building things because "what if?" is usually enough.
 
-I'm really into AI, web development, UI/UX, developer tools, and basically anything that makes me go "wait... I can build that?"
+<br>""Peel UI" (https://img.shields.io/badge/Peel_UI-08090a?style=flat-square&logoColor=84ff00)" (https://github.com/killersumit/peel-ui)
+""ani-tui" (https://img.shields.io/badge/ani--tui-08090a?style=flat-square)" (https://github.com/killersumit/ani-tui)
 
-Currently, I'm:
+</div>---
 
-- 🧠 Learning more about AI + the web
-- 🎨 Spending way too much time making interfaces feel just right
-- 💻 Mostly living in frontend
-- 🫠 Fighting for my life in backend
-- 🤖 Keeping AI around because honestly... why wouldn't I?
-- 🧪 Building random ideas just to see if I can
+"> currently"
 
----
+building → "Peel UI" (https://github.com/killersumit/peel-ui)
+"tactile · opinionated · non-boring React components"
 
-🧃 what i'm building
+exploring → "AI · LLMs · Web · UI/UX · new tech"
 
-"Peel UI" (https://github.com/killersumit/peel-ui)
-
-«A collection of tactile, opinionated React components for interfaces that feel like tools, not templates.»
-
-This is the project I'm putting the most love into right now.
-
-Peel UI is my attempt at making UI components that have personality.
-
-Not another collection of:
-"rounded-xl + shadow-md + gradient + "AI-powered"" 😭
-
-Instead, I'm experimenting with:
-
-- tactile / physical interactions
-- mechanical-feeling animations
-- unusual micro-interactions
-- intentional spacing & typography
-- dark, minimal interfaces
-- components that actually feel different
-
-Basically:
-
-less SaaS slop. more character.
+learning → "backend... unfortunately"
 
 ---
 
-"ani-tui" (https://github.com/killersumit/ani-tui)
+"> me.exe"
 
-A terminal UI for ani-cli, built because apparently watching anime needed a keyboard-first terminal experience.
+frontend    ████████████████████  100%
+ai          █████████████████░░░   85%
+curiosity   ████████████████████  100%
+backend     ███████░░░░░░░░░░░░░   35%
 
----
+I like clean interfaces, weird ideas, AI everywhere, and shipping stuff.
 
-🧠 stuff i'm into
+I don't know everything.
 
-AI              ███████████████████░░
-Frontend        ████████████████████░
-UI / UX         ████████████████████░
-Web             ███████████████████░░
-Backend         ███████░░░░░░░░░░░░░░
-
-Frontend
-"React" · "Next.js" · "TypeScript" · "Tailwind CSS"
-
-Currently learning / messing with
-"AI" · "LLMs" · "APIs" · "Backend" · "databases" · "whatever looks interesting"
-
-And yes, the backend bar is intentionally low.
-
-For now.
+yet.
 
 ---
 
-🤖 my relationship with AI
+"> projects"
 
-I don't just use AI to generate code.
+"Peel UI" (https://github.com/killersumit/peel-ui) — UI components with actual personality.
 
-I like using it to:
-
-«explore ideas → learn weird stuff → prototype → break things → understand why → build again»
-
-AI is basically the little guy sitting next to me while I code.
-
-Sometimes it's helpful.
-
-Sometimes it confidently destroys everything.
-
-We move.
+"ani-tui" (https://github.com/killersumit/ani-tui) — a terminal UI for "ani-cli".
 
 ---
 
-🛠️ how i like to build
+"> contact"
 
-I care a lot about:
+"killersumit1191@gmail.com" · "killer1191x@gmail.com"
 
-good interfaces > unnecessary complexity
+<br><div align="center">"made with curiosity + AI + questionable decisions"
 
-real interactions > decorative animations
-
-shipping > endlessly planning
-
-learning > pretending I know everything
-
-And most importantly:
-
-«If it can be made a little more interesting, I'll probably try.»
-
----
-
-📚 currently learning
-
-- AI & LLMs
-- modern web development
-- backend architecture
-- APIs & databases
-- better frontend architecture
-- design systems
-- making my code less questionable
-
----
-
-📫 wanna talk?
-
-If you want to build something, talk tech, AI, UI, or just have a random idea at 2 AM:
-
-Email:
-"killersumit1191@gmail.com"
-"killer1191x@gmail.com"
-
----
-
-somewhere between
-
-"this is a terrible idea"
-
-and
-
-"wait... this actually works."
-
-that's usually where I build things.
-
-<br><p align="center">
-  <sub>built with curiosity, caffeine, and an unreasonable amount of AI tabs.</sub>
-</p>
+</div>
