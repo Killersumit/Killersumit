@@ -1,18 +1,44 @@
 <div align="center">
 
-<img src="PEEL_LOGO_URL" width="90">
+<img src="https://raw.githubusercontent.com/Killersumit/peel-ui/main/public/peeluiicon.png" width="110">
 
 # sumit
 
-### `vibecoder` · `frontend` · `ai`
+`vibecoder` · `frontend` · `ai`
 
-<sub>i make things on the internet that probably didn't need to exist</sub>
+**i build things that i think should exist.**
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,git,github" />
+<a href="https://github.com/Killersumit/peel-ui">
+  <img src="https://img.shields.io/badge/PEEL_UI-08090A?style=for-the-badge&logoColor=84FF00">
+</a>
+&nbsp;
+<a href="https://github.com/Killersumit/ani-tui">
+  <img src="https://img.shields.io/badge/ANI--TUI-08090A?style=for-the-badge">
+</a>
 
-<br><br>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### currently cooking
+
+**[PEEL UI](https://github.com/Killersumit/peel-ui)**
+
+*tactile React components with a little more personality.*
+
+`interaction` · `motion` · `design`
+
+<br>
+
+**[ANI-TUI](https://github.com/Killersumit/ani-tui)**
+
+*a terminal UI for ani-cli.*
 
 </div>
 
@@ -20,69 +46,32 @@
 
 <div align="center">
 
-### currently obsessed with
+### my current character build
 
-`AI` &nbsp; `UI` &nbsp; `WEB` &nbsp; `MOTION` &nbsp; `NEW SHIT`
+**frontend** → pretty comfortable  
+**ai** → can't stay away  
+**backend** → character development arc
+
+<br>
+
+`AI` · `web` · `UI` · `experiments`
+
+<br>
+
+> *if it's interesting, i'm probably building it.*
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🧃 Peel UI
-
-**tactile React components**
-
-`motion` · `interaction` · `design`
-
-<br>
-
-<a href="https://github.com/Killersumit/peel-ui">
-<img src="https://img.shields.io/github/stars/Killersumit/peel-ui?style=flat&label=stars&color=84ff00">
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🎬 ani-tui
-
-**anime from the terminal**
-
-`Go` · `TUI` · `ani-cli`
-
-<br>
-
-<a href="https://github.com/Killersumit/ani-tui">
-<img src="https://img.shields.io/github/stars/Killersumit/ani-tui?style=flat&label=stars&color=84ff00">
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
 
-> **frontend:** 🧠  
-> **backend:** we're working on it.
-
-<br>
-
-`if it's interesting → i'm probably building it`
+<a href="mailto:killersumit1191@gmail.com">killersumit1191@gmail.com</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:killer1191x@gmail.com">killer1191x@gmail.com</a>
 
 <br><br>
 
-<a href="mailto:killersumit1191@gmail.com">
-<img src="https://img.shields.io/badge/email-08090a?style=flat-square&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:killer1191x@gmail.com">
-<img src="https://img.shields.io/badge/email_2-08090a?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<sub>made with curiosity and an unreasonable amount of AI</sub>
 
 </div>
