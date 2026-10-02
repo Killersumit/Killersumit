@@ -1,28 +1,26 @@
-# hey, i'm sumit 👋
+# sumit
 
-`vibecoder` · `frontend` · `ai enjoyer`
+**vibecoder / frontend / AI**
 
-i build things on the internet that make me go  
-**"wait... this could actually be cool."**
+I build interfaces, experiment with AI, and learn by making things.
 
-### currently building
+### currently
 
-**[Peel UI](https://github.com/Killersumit/peel-ui)**  
-`tactile React components · motion · interaction · design`
+**[Peel UI](https://peel-ui.vercel.app/)**  
+A growing collection of tactile React components and interaction experiments.  
+Building it daily.
 
-<img src="https://raw.githubusercontent.com/Killersumit/peel-ui/main/public/peeluiicon.png" width="56" align="right">
+`React` `Next.js` `TypeScript` `Motion` `GSAP`
+
+### other
 
 **[ani-tui](https://github.com/Killersumit/ani-tui)**  
-`a terminal UI for ani-cli`
+Terminal UI for ani-cli. Currently on hold.
 
-### into
+### learning
 
-`AI` · `Web` · `UI/UX` · `Motion` · `new things`
+AI · web · interaction · backend
 
-pretty good at frontend.  
-**backend is currently part of the character development.**
+### contact
 
-### say hi
-
-[Email](mailto:killersumit1191@gmail.com) ·
-[Email²](mailto:killer1191x@gmail.com)
+[Email](mailto:killersumit1191@gmail.com) · [Email](mailto:killer1191x@gmail.com)
