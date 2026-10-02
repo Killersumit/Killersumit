@@ -1,44 +1,53 @@
-<div align="center"><img src="./peel-logo.svg" width="88" alt="Peel UI">sumit
+<div align="center">
 
-"vibecoder" · "frontend guy" · "ai enjoyer"
+<img src="https://raw.githubusercontent.com/Killersumit/peel-ui/main/ACTUAL-LOGO-PATH.svg" width="72">
 
-<br>«building stuff because i thought
-"wait... what if i just made it?"»
+# sumit
 
-<br>"web" · "ai" · "ui" · "random experiments"
+`vibecoder` · `frontend guy` · `ai enjoyer`
 
-</div>---
+building things that make me go  
+**"wait... what if i just made it?"**
 
-currently cooking
+<br>
 
-"peel-ui" (https://github.com/killersumit/peel-ui)
-tactile react components for interfaces that actually have a personality.
+`ai` · `web` · `ui` · `experiments`
 
-"interaction" · "motion" · "design systems" · "less boring ui"
+</div>
 
-<br>"ani-tui" (https://github.com/killersumit/ani-tui)
-a terminal ui for ani-cli.
+<br>
 
----
+### currently cooking
 
-me rn
+**[Peel UI](https://github.com/Killersumit/peel-ui)**  
+Tactile React components for interfaces with a little more personality.
 
-frontend     ████████████████████
-ai           █████████████████░░░
-backend      ███████░░░░░░░░░░░░
+`motion` · `interaction` · `design systems` · `good ui`
 
-good at making things look nice.
+### side quest
 
-currently negotiating with the backend.
+**[ani-tui](https://github.com/killersumit/ani-tui)**  
+A terminal UI for `ani-cli`.
 
----
+<br>
 
-<div align="center">i like ai, the web, good ui & learning random shit.
+> good at frontend.  
+> currently negotiating with backend.
 
-<br>"if it's interesting, i'm probably building it."
+<br>
+
+<div align="center">
+
+I like AI, the web, good UI & learning random shit.
+
+<br>
+
+*"if it's interesting, i'm probably building it."*
 
 <br><br>
 
-📫 "killersumit1191@gmail.com" · "killer1191x@gmail.com"
+<a href="mailto:killersumit1191@gmail.com">email</a>
+&nbsp;·&nbsp;
+<a href="mailto:killer1191x@gmail.com">another email</a>
 
 </div>
