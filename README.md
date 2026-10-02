@@ -1,53 +1,88 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Killersumit/peel-ui/main/ACTUAL-LOGO-PATH.svg" width="72">
+<img src="PEEL_LOGO_URL" width="90">
 
 # sumit
 
-`vibecoder` · `frontend guy` · `ai enjoyer`
+### `vibecoder` · `frontend` · `ai`
 
-building things that make me go  
-**"wait... what if i just made it?"**
+<sub>i make things on the internet that probably didn't need to exist</sub>
 
-<br>
+<br><br>
 
-`ai` · `web` · `ui` · `experiments`
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css,nodejs,git,github" />
+
+<br><br>
+
+</div>
+
+---
+
+<div align="center">
+
+### currently obsessed with
+
+`AI` &nbsp; `UI` &nbsp; `WEB` &nbsp; `MOTION` &nbsp; `NEW SHIT`
 
 </div>
 
 <br>
 
-### currently cooking
+<table>
+<tr>
+<td width="50%" align="center">
 
-**[Peel UI](https://github.com/Killersumit/peel-ui)**  
-Tactile React components for interfaces with a little more personality.
+### 🧃 Peel UI
 
-`motion` · `interaction` · `design systems` · `good ui`
+**tactile React components**
 
-### side quest
-
-**[ani-tui](https://github.com/killersumit/ani-tui)**  
-A terminal UI for `ani-cli`.
+`motion` · `interaction` · `design`
 
 <br>
 
-> good at frontend.  
-> currently negotiating with backend.
+<a href="https://github.com/Killersumit/peel-ui">
+<img src="https://img.shields.io/github/stars/Killersumit/peel-ui?style=flat&label=stars&color=84ff00">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎬 ani-tui
+
+**anime from the terminal**
+
+`Go` · `TUI` · `ani-cli`
+
+<br>
+
+<a href="https://github.com/Killersumit/ani-tui">
+<img src="https://img.shields.io/github/stars/Killersumit/ani-tui?style=flat&label=stars&color=84ff00">
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-I like AI, the web, good UI & learning random shit.
+> **frontend:** 🧠  
+> **backend:** we're working on it.
 
 <br>
 
-*"if it's interesting, i'm probably building it."*
+`if it's interesting → i'm probably building it`
 
 <br><br>
 
-<a href="mailto:killersumit1191@gmail.com">email</a>
-&nbsp;·&nbsp;
-<a href="mailto:killer1191x@gmail.com">another email</a>
+<a href="mailto:killersumit1191@gmail.com">
+<img src="https://img.shields.io/badge/email-08090a?style=flat-square&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:killer1191x@gmail.com">
+<img src="https://img.shields.io/badge/email_2-08090a?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 </div>
